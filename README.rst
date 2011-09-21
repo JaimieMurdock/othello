@@ -11,10 +11,10 @@ repo and developing additional game engines, and encourage pull requests for
 well-documented examples. 
 
 Additional ideas for contribution:
+
 *   Several TODO comments in __init__.py
 *   Tournament infrastructure (to be implemented in tournament.py)
-*   GUI for visualization of games with round-stepping functionality. 
-    Full-screen a plus.
+*   GUI for visualization of games with round-stepping functionality.
 *   Standardized logging and log readers for replay.
 
 Usage
