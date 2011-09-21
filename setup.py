@@ -1,4 +1,4 @@
-# chardet's setup.py
+# TODO: Import to the CheeseShop.
 from distutils.core import setup
 import setuptools
 setup(
