@@ -7,8 +7,8 @@ setup(
     version = "1.0b1",
     description = "Implementation of Othello/Reversi",
     author = "Jaimie Murdock and Eric P. Nichols",
-    url = "http://www.github.com/JaimieMurdock/othello",
-    download_url = "http://www.github.com/JaimieMurdock/othello",
+    url = "https://github.com/JaimieMurdock/othello",
+    download_url = "https://github.com/JaimieMurdock/othello",
     keywords = ["machine learning", "games"],
     classifiers = [
         "Environment :: Console",
