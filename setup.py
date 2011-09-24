@@ -5,7 +5,7 @@ setup(
     name = "othello",
     packages = ["othello", "othello.engines"],
     version = "1.0b1",
-    description = "Implementation of Othello/Reversi",
+    description = "Implementation of Othello/Reversi for AI course instruction",
     author = "Jaimie Murdock and Eric P. Nichols",
     url = "https://github.com/JaimieMurdock/othello",
     download_url = "https://github.com/JaimieMurdock/othello",
