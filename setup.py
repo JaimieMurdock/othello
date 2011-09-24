@@ -17,6 +17,8 @@ setup(
         "Programming Language :: Python :: 2.7",
         "Development Status :: 4 - Beta",
         "Intended Audience :: Education",
+        "License :: OSI Approved",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Topic :: Education"
         "Topic :: Games/Entertainment :: Board Games",
